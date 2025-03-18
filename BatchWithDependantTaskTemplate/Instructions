@@ -1,0 +1,11 @@
+Batch framework with dependent Task of Dynamics 365 AI ERP
+
+This is open source project for Dynamics 365 AI ERP developers. This sample code of dependent batch framework allows developers to reuse the framework and extend it further based on project requirements.
+
+This reusable components includes
+1. Batch classes with dependent task 
+2. Best practices implemented for task
+3. Contract, Controller and service classes
+
+This is end to end framework for any customization batch jobs to be developed in Dynamics 365 AI ERP.
+
