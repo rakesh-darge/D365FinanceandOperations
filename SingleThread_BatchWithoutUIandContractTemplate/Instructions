@@ -1,6 +1,6 @@
 Single-thread batch framework of Dynamics 365 AI ERP
 
-This is open source project for Dynamics 365 AI ERP developers. This sample code of single-thread batch framework allows developers to reuse the framework and extend it further based on their project requirements.
+This is open source project for Dynamics 365 AI ERP developers. This sample code of single-thread batch framework allows developers to reuse the framework and extend it further based on project requirements.
 
 This reusable components includes
 1. Single-thread batch classes
